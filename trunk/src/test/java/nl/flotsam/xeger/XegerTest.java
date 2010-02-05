@@ -16,13 +16,8 @@
 package nl.flotsam.xeger;
 
 import org.junit.Test;
-import static org.junit.Assert.assertThat;
-import static org.junit.Assert.assertTrue;
-import org.hamcrest.Matchers;
-import org.hamcrest.CoreMatchers;
-import dk.brics.automaton.RegExp;
 
-import java.util.Random;
+import static org.junit.Assert.assertTrue;
 
 public class XegerTest {
 
